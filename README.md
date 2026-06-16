@@ -9,7 +9,7 @@ Inside, you will find verified credentials, Skill oriented Certificates, and Tec
                       Core Specializations
                       
 Data Analysis and AI [Data Analysis and AI Fundamentals] - Issued by [Udacity, 2024] | 
-Skills: Python, SQL, Tableau, Power BI, Advanced MS Excel, AI/Prompt Engineering
+Skills: Python, SQL, Tableau, Power BI, Advanced MS Excel, AI & DS, Prompt Engineering, Machine learning
 
 Data Analytics Bootcamp [Data Analysis and AI Fundamentals] - Issued by [Alexander Freberg / CEO, 2025] | 
 Skills: Python, SQL, Tableau, Power BI, Advanced MS Excel, Web Scraping
